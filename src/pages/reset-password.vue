@@ -1,5 +1,5 @@
 <template>
-  <div class="reset-password">
+  <div class="reset-password22222">
     <h2>Reset Password</h2>
     <form @submit.prevent="resetPassword">
       <div class="form-group">
